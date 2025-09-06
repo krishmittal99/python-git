@@ -6,9 +6,9 @@ This repository contains worksheets for the Python course offered at Thapar Inst
 
 ##  About the Course
 
-Thapar Institute of Engineering and Technology (TIET), formerly Thapar University, is a premier private deemed university located in Patiala, India :contentReference[oaicite:0]{index=0}.
+Thapar Institute of Engineering and Technology (TIET), formerly Thapar University, is a premier private deemed university located in Patiala, India 
 
-The Python course is part of the curriculum under the Computer Science & Engineering or Computer Engineering degree programs. It covers the following core topics:
+The Python course is part of the curriculum under the Robotics and Artificial Intelligence. It covers the following core topics:
 
 - Introduction to Python and basics (data types, control structures, functions)  
 - Data structures: lists, tuples, dictionaries, sets  
